@@ -12,3 +12,5 @@ Craps base rules: https://www.venetianlasvegas.com/resort/casino/table-games/cra
 Download [the executable](/NiceCraps.exe) and enjoy !! (Everything is in command line display)
 
 [My personal report](/report%20MARTIN%20D'ESCRIENNE%20Yann.pdf) of this project.
+
+![image](https://github.com/user-attachments/assets/08523116-9225-41c6-b869-d7df52e6e828)
